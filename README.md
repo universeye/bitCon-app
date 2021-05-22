@@ -1,6 +1,6 @@
 # bitCoin App
 
-An app that shows current exchange rate of the chosen currency, follow the courses by [Angela Yu](https://twitter.com/yu_angela),with some extra features added myself like custom loading view, fully developed in Swift UIKit.
+An app that shows current exchange rate of the chosen currency, follow the courses by [Angela Yu](https://twitter.com/yu_angela), with some extra features added myself like custom loading view, fully developed in Swift UIKit.
 
 
 # Menu
